@@ -1,4 +1,4 @@
-# IATM-BLE-Scanner-App
+# IATM BLE Scanner App
 
 ## Overview
 
@@ -10,6 +10,16 @@ The IATM-BLE-Scanner-App is a mobile application that allows users to scan for a
 - Connect to and interact with BLE devices
 - Display device information and characteristics
 - Provide options to read, write, and subscribe to BLE device services and characteristics
+
+## Output
+### Dashboard
+![Dashboard](Dashboard.jpeg)
+
+### Scan Page
+![Scan Page](ScanPage.jpeg)
+
+### Read Write Page
+![Read Write Page](ReadWritePage.jpeg)
 
 ## Installation
 
